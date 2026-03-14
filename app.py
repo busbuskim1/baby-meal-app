@@ -21,7 +21,7 @@ def save_data(data):
 
 # 페이지 설정
 st.set_page_config(page_title="아기 식단 매니저", layout="centered")
-st.title("🍱 아기 식단 추천 앱")
+st.title("🍱 이현다현네 식단 추천")
 
 # 데이터 로드
 if 'data' not in st.session_state:
